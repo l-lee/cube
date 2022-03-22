@@ -10,11 +10,11 @@ module.exports = {
     // 主题设置
     themeConfig: {
       type: 'blog',
-      author: 'new recoer',
+      author: 'ryan',
       // 显示在个人信息的头像
-      authorAvatar: '/avatar.png',
+      authorAvatar: '/cygia.png',
       // 导航栏左侧logo
-      logo: '/avatar.png',
+      logo: '/MIC770.png',
       // 搜索设置
       search: true,
       searchMaxSuggestions: 10,
