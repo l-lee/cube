@@ -1,0 +1,18 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs --temp docs/.temps",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs --temp docs/.temps"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-permalink-pinyin": "^1.0.0",
+    "vuepress-theme-reco": "^1.6.11"
+  }
+}
