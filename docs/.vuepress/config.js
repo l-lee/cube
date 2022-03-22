@@ -1,7 +1,7 @@
 module.exports = {
     theme: 'reco',
     title: "Cygia Cube Controller",
-    base:"/Blog/",
+    base:"/cube/",
     description: 'Cygia Cube Controller product Manual',
     // 移动端优化
     head: [
