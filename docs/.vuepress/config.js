@@ -45,7 +45,7 @@ module.exports = {
       vssueConfig: {
         platform: 'github',
         owner: 'l-lee',
-        repo: 'Blog',
+        repo: 'cube',
         clientId: 'c4321535f0faddce3292',
         clientSecret: '9355116fa364d3cd71a18febf523ac19e3ab3b91',
       },
