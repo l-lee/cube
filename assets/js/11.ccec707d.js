@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{563:function(t,n,e){"use strict";e.r(n);var s=e(17),l=Object(s.a)({},(function(){var t=this.$createElement,n=this._self._c||t;return n("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[n("p",[this._v("Bug 列表\n在评论中详细描述Bug")])])}),[],!1,null,null,null);n.default=l.exports}}]);
